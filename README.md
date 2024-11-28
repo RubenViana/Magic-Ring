@@ -21,9 +21,7 @@
 
 ### Software
 
-- Microcontroller software
-- PC software
-
-![gestures_animation](https://hackmd.io/_uploads/HJOFpcXe1g.gif =1000x)
+- Ring software - [main.cpp](main.cpp)
+- PC software - [audio_controller.py](audio_controller.py)
 
 ## Scenarios
